@@ -1,6 +1,6 @@
 # A-cluster Bedrijfseconomie
 
-![](https://github.com/hanbedrijfskunde/abe/blob/master/title.jpg)
+![](https://github.com/hanbedrijfskunde/abe/blob/master/titleimg.jpg)
 
 ## Werkcollege 1
 
